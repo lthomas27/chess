@@ -1,2 +1,2 @@
 # chess
-Implemented in Java (not complete)
+3 versions...all incomplete. :)
